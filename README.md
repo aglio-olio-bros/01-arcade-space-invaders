@@ -19,6 +19,19 @@ Projekt je určený hlavně pro začátečníky. Celá hra je velmi krátká —
 * **Doleva / doprava** — pohyb raketky
 * **Tlačítko A** — výstřel
 
+### Jak projekt spustit v MakeCode Arcade
+
+1. Otevři stránku [Microsoft MakeCode Arcade](https://arcade.makecode.com/).
+2. Klikni na **Import**.
+3. Vyber **Import URL**.
+4. Vlož adresu tohoto repozitáře:
+
+   ```text
+   https://github.com/aglio-olio-bros/01-arcade-space-invaders
+   ```
+
+5. Projekt se otevře v MakeCode Arcade a můžeš ho spustit v emulátoru.
+
 ## Cíl hry
 
 Sestřel co nejvíce mimozemšťanů.
@@ -73,6 +86,19 @@ This project is designed mainly for beginners. The whole game is intentionally v
 
 * **Left / right** — move the spaceship
 * **A button** — shoot
+
+### How to open the project in MakeCode Arcade
+
+1. Open [Microsoft MakeCode Arcade](https://arcade.makecode.com/).
+2. Click **Import**.
+3. Choose **Import URL**.
+4. Paste the repository address:
+
+   ```text
+   https://github.com/aglio-olio-bros/01-arcade-space-invaders
+   ```
+
+5. The project will open in MakeCode Arcade and you can run it in the emulator.
 
 ## Goal
 
