@@ -1,0 +1,20 @@
+{
+    "name": "01-arcade-space-invaders",
+    "description": "MakeCode Arcade hra pro začátečníky: mini Space Invaders. / Beginner MakeCode Arcade game: mini Space Invaders.",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "targetVersions": {
+        "target": "4.0.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}

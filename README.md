@@ -1,2 +1,13 @@
-# 01-arcade-space-invaders
-MakeCode Arcade hra pro začátečníky: mini Space Invaders. / Beginner MakeCode Arcade game: mini Space Invaders.
+# 01 mini Space Invaders
+
+[🇨🇿 Česky](#česky) | [🇬🇧 English](#english)
+
+![Náhled hry / Game preview](https://raw.githubusercontent.com/aglio-olio-bros/01-arcade-space-invaders/init2/assets/preview.png)
+
+---
+
+## Česky
+
+---
+
+## English
